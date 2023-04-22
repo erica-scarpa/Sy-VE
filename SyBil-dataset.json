@@ -2,73 +2,136 @@
     "data": [
         [
             "VE 254",
-            "0254",
+            "0256",
             "sag-sum",
             "SAG",
             "*, [x]-⸢x⸣-<i>lu-um</i> (A₄), <i>za-bi</i><sub>2</sub>-<i>lu-um</i> (O), <i>za-ba-lu</i> SAG (K). On the gloss of source K see the comment in VE 255."
         ],
         [
             "VE 545",
-            "0545",
+            "0547",
             "A<sub>2</sub>.MUŠEN",
             "A<sub>2</sub>",
             "*, <i>a-bar-tum</i>` (AD), [no gloss] (B₁₀); Hajouz no. 2: from √ʾbr, 'eagle' or 'feather', see also Bonechi, 'Noms d'oiseaux à Ébla' (2000); other translations include '(a kind of headgear)', see Archi, 'Minima eblaitica 8' (1988). See Hajouz, 32-33 for a detailed discussion."
         ],
         [
             "VE 190",
-            "0190",
+            "0192",
             "kir<sub>4</sub>-ma",
             "KA",
             "*, <i>bu</i><sub>3</sub>-<i>gu</i><sub>2</sub>-<i>um</i> (s), [no gloss] (A<sub>4-5</sub>, ak); 'monkey', also normalized kiri<sub>3</sub>-ma. Archi (<i>NABU</i> 2022/80, 176), recently wrote that excerpt s (<i>M</i> 4, 93) presents the gloss (omitted in <i>MEE</i> 4); Catagnoti, <i>NABU</i> 1989/31. \""
         ],
         [
             "VE 186a-b",
-            "0186",
+            "0188",
             "inim-di",
             "KA",
             "*, <i>dal-da-gi-lum</i> (A<sub>2</sub>, B<sub>2</sub>, C) <i>ti-da-bir</i><sub>5</sub>-<i>lum</i> (i), [no gloss] (K); Hajouz no. 894. 'Instruction, order' (DDCLT: Ebla, Acrographic List A, obv.VI:3). The two glosses come from roots √śkr and √dbr repsectively (Conti, <i>MisEb</i> 3 [1990], 95–96). Normalized as <i>taśtakīrum</i> and <i>teddanbērum</i> (Bonechi, <i>QdL</i> 16 [2006], 92). inim-di-inim-di = 'Disposizioni, ordini' (Catagnoti and Fronzaroli, <i>ARET</i> XVIII [2020], 136, s.v.; Catagnoti and Fronzaroli, <i>ARET</i> XVI [2010], 241, s.v.\""
         ],
         [
             "VE 530",
-            "0530",
+            "0532",
             "šu-šilig",
             "ŠU",
             "*, <i>u-bu</i><sub>x</sub>-<i>lum</i> (AD), [no gloss] (A₄, B); Hajouz no. 1: 'strenght', from √ʾbr, 'to be strong'"
         ],
         [
             "VE 149",
-            "0149",
+            "0151",
             "u<sub>3</sub>-nu-gar",
             "NINDA",
             "*, <i>u</i><sub>3</sub>-<i>ba-su-um</i> (C), [no gloss] (A₂, L); Hajouz no. 3: 'fraud', from √ʾbš. For a different interpretation ('to sleep'), see D'Agostino, Sistema verbale (1990), 78."
         ],
         [
+            "VE 901",
+            "0903",
+            "na-⸢de₅⸣",
+            "NA",
+            "*, <i>wa-ša-lu-um</i> (A₄`), <i>wa-li</i><sup>(!)</sup>-<i>lu-um</i> (B₁₁); Krebernik, 'Sylllables' (2018), 170: \"clean\""
+        ],
+        [
             "VE 278",
-            "0278",
+            "0280",
             "u<sub>2</sub>-gigir",
             "U<sub>2</sub>",
             "<i>a-ša-ḫa-bu</i><sub>3</sub> (O), [no gloss] (R); Hajouz no. 147; 'Rougue man', Akk. <i>isḫappu</i> (<i>CAD</i> I-J [1960], s.v., 189); Civil, 'Bilingualism' (1984)\""
         ],
         [
+            "VE 120",
+            "0121",
+            "nig<sub>2</sub>-zi-pa-zi-pa",
+            "NINDA",
+            "<i>da-na-i-si-du</i>; Kogan and Krebernik, 'Eblaite' (2021), 832: /tanḥištu/ ‘living beings, humanity’"
+        ],
+        [
+            "VE 146",
+            "0148",
+            "sig<sub>4</sub>-[dur<sub>2</sub>]-gar",
+            "NINDA",
+            "<i>li-bi</i><sub>2</sub>-<i>tum</i>, <i>li-ba-tum</i>; Kogan and Krebernik, 'Eblaite' (2021), 832: /libittum/- /libattum/ ‘mud-brick’"
+        ],
+        [
+            "VE 140a",
+            "0141",
+            "eren<sub>2</sub>!(KUR):KI.GAR",
+            "NINDA",
+            "<i>maz-bi</i><sub>2</sub>-<i>tum</i>, <i>maz-ba-tum</i>; Kogan and Krebernik, 'Eblaite' (2021), 832: /maṣbiʾtum/ - /maṣbaˀtum/ ‘army’"
+        ],
+        [
+            "VE 100",
+            "0101",
+            "nig<sub>2</sub>-gig",
+            "NINDA",
+            "<i>ni-ki-tum</i>; Kogan and Krebernik, 'Eblaite' (2021), 832: /niḳītum/ ‘(ritual) purity, sacredness’"
+        ],
+        [
+            "VE 483",
+            "0485",
+            "geš-eš<sub>2</sub>-nu-eš<sub>2</sub>",
+            "GEŠ",
+            "<i>su-ma-tum</i>; Kogan and Krebernik, 'Eblaite' (2021), 832:  /šummattum/, ‘tethering rope’"
+        ],
+        [
+            "VE 40a",
+            "0040",
+            "nig<sub>2</sub>-eš<sub>2</sub>-nu-eš<sub>2</sub>",
+            "NINDA",
+            "<i>su-mu-tum</i>; Kogan and Krebernik, 'Eblaite' (2021), 832:  /šummuttum/, ‘tethering rope’"
+        ],
+        [
+            "VE 566",
+            "0568",
+            "a<sub>2</sub>-kud",
+            "A<sub>2</sub>",
+            "Catagnoti and Bonechi, 'Structure and Vocabulary' (2020), 160"
+        ],
+        [
             "VE 210a-b",
-            "0210",
+            "0212",
             "KA.KA::KA.KA",
             "KA",
             "Hajouz no. 894."
         ],
         [
             "VE 220",
-            "0220",
-            "zu<sub>2</sub>-giri<sub>2</sub>8",
+            "0222",
+            "zu<sub>2</sub>-giri<sub>2</sub>",
             "KA",
             "Hajouz no. 894."
         ],
         [
             "VE 255",
-            "0255",
+            "0257",
             "{⸢x⸣-gudu<sub>4</sub>}",
             "SAG",
             "The entry should be removed. Collation by Pelio Fronzaroli ('Veterinary Prescription [2005], 90n8) reveals that source K reads sag–sum / <i>za-ba-lu</i> SAG, and therefore refers to VE 254."
+        ],
+        [
+            "VE 1227'",
+            "1229",
+            "tu<sub>x</sub> (NAGA.A)",
+            "",
+            "ʾ<i>a</i><sub>3</sub>-<i>a-um</i> (BG), [no gloss] (BB); Krebernik, 'Syllables' (2018), 170, √ḥll, 'to clean, to wash'"
         ]
     ]
 }
