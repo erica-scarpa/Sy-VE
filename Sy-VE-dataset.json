@@ -1,6 +1,14 @@
 ﻿{
     "data": [
         [
+            "VE 418",
+            "0420",
+            "",
+            "GEŠ.GI.A<sub>2</sub><sup>!</sup>.LA<sub>2</sub><sup>",
+            "GIŠ",
+            "[★], [no gloss] (A), <i>ša-ga-lum</i>, /ṯaḳālum/, ‘to weigh’ (v). See the discussion sub. VE 409a."
+        ],
+        [
             "VE 876",
             "0878",
             "",
@@ -89,6 +97,14 @@
             "<i>za-bi</i><sub>2</sub>-<i>tum</i> (d); 'tavern-keeper'; Steinkeller, 'Prostitutes' (2022), 3: gloss can be normalized <i>sābītum</i>, 'tavern-keeper'. See Hajouz no. 1080 (√zny). See the comment sub VE 1412'a."
         ],
         [
+            "VE 868",
+            "0870",
+            "",
+            "za:gin<sub>3</sub>",
+            "IB<sub>2</sub>",
+            "★ [no gloss] (A, B, AK); 'Lapis lazuli'. On this semi-precious stone, see Pasquali, <i>Lessico</i> (2005), 9. In the administrative record, the term is also attested as za-gin<sub>3</sub> or gin<sub>3</sub>(-gin<sub>3</sub>). Civil, 'Early History' (1987), 145, observes that the word is a loan from an unknown language, and probably means 'blue (stone)'."
+        ],
+        [
             "VE 254",
             "0256",
             "",
@@ -153,12 +169,12 @@
             "★, <i>wa-ša-lu-um</i> (A₄`), <i>wa-li</i><sup>(!)</sup>-<i>lu-um</i> (B₁₁); Krebernik, 'Sylllables' (2018), 170: \"clean\""
         ],
         [
-            "VE 868",
-            "0870",
-            "",
-            "za:gin<sub>3</sub>",
-            "IB<sub>2</sub>",
-            "★ [no gloss] (A, B, AK); 'Lapis lazuli'. On this semi-precious stone, see Pasquali, <i>Lessico</i> (2005), 9. In the administrative record, the term is also attested as za-gin<sub>3</sub> or gin<sub>3</sub>(-gin<sub>3</sub>). Civil, 'Early History' (1987), 145, observes that the word is a loan from an unknown language, and probably means 'blue (stone)'."
+            "VE 409a",
+            "0411",
+            "409",
+            "<sup>giš</sup>DILMUN",
+            "GIŠ",
+            "★, <i>wa-za-nu-um</i> (A), <i>wa-za-num</i><sub>2</sub> (B), <i>ša-gi-lum</i> (v); 'weigher'; see also Akk. <i>šaqālu</i>, Ar. <i>wazānum</i>, 'to weigh'; the gloss <i>ša-gi-lum</i> can be connected to a Proto-Semitic root √ṯḳl, <i>ṯaḳilum</i>, 'heavy' (see also VE 418 <i>ša-ga-lum</i>, /ṯaḳālum/, ‘to weigh’). A possible interpretation of the first two glosses is <i>wazzānum</i>, 'weigher', see Bonechi, 'Nomi di professione' (2006), 87. See also DUL<sup>3</sup>, s.v. mzn, 599-600, 'weight'; Fronzaroli, 'Eblaic Lexicon' (1984), 149 and 152; Conti, 'Sillabario' 1990, 13; . For the reading šakil(a)<sub>x</sub> o šakal(a)<sub>x</sub> of the Sumerian lemma, see Bonechi, 'Nomi di professione' (2006), 82-83. Note that Michalowski suggested that √ṯḳl and √wsn are variants of the same root ('Shekel and the Vizier' [1990], 6). "
         ],
         [
             "VE 566",
